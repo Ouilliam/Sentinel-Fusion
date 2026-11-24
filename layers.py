@@ -3,7 +3,7 @@
 
         Contains definition for layers of the encoders (multi-head attention layer and a fully connected layer).
 
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 import math
 

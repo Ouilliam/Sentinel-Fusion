@@ -3,7 +3,7 @@
 
         Contains definition for the SentinelFusion model.
     
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 import nopdb
 import numpy as np

@@ -4,7 +4,7 @@
         Contains the definition of the ModelManager, a class 
         made to handle our model and gather useful methods to train & test it.
     
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 import os
 import time

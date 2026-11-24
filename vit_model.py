@@ -4,7 +4,7 @@
         Contains the torch implementation of the ViT model, modified so that he 
         can output the attention map instead of the usual features.
 
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 import torch
 import torch.hub

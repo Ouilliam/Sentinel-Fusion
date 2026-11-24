@@ -3,7 +3,7 @@
 
         Contains definition for multiple types of encoders and their "encoder-blocks" (each block is an encoder layer).
 
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 import numpy as np
 import torch

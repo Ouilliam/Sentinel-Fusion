@@ -4,7 +4,7 @@
         Contains definition for the FusionBottom module which is the 
         bottleneck of our network.
 
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 
 import numpy as np

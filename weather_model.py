@@ -3,7 +3,7 @@
 
         Contains definition for the WeatherAttentionModel.
     
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 import torch 
 import torch.nn as nn 

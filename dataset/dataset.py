@@ -4,7 +4,7 @@
         This file contains the definition of the NDVI Disease Dataset which was used to train several
         models on detecting the diseases thanks to NDVI.
     
-    Author: William MAILLET 
+    Author: William MAILLET
 """
 import torch
 from torch.utils.data import Dataset
